@@ -1,6 +1,6 @@
 # Tycoon Argentina — Descargas
 
-<img src="icono.png" width="96" align="right" alt="Ícono de Tycoon Argentina">
+<img src="icono.png" width="128" align="right" alt="Ícono de Tycoon Argentina">
 
 Simulador de negocios pixel art para Android: arrancás con un puestito callejero
 y crecés hasta un conglomerado empresarial. Todo es ficticio y humorístico.
@@ -25,4 +25,5 @@ El progreso se guarda en el teléfono.
 
 | Versión | Novedades |
 |---|---|
+| 0.2.0 | Letra más grande y clara, objetivo siempre visible, botón principal único, tutorial guiado paso a paso y logo nuevo. |
 | 0.1.0 | Primera versión jugable: 12 negocios, empleados, ingresos offline, mapa, rivales, misiones, logros y prestigio. |
