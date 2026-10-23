@@ -25,8 +25,8 @@ El progreso se guarda en el teléfono.
 
 | Versión | Novedades |
 |---|---|
-| 0.4.0 | Pixel art nuevo: los 12 negocios rediseñados con animación (toldos, luces, humo), personajes más grandes y detallados, íconos nuevos. |
 | 0.5.0 | Pantalla de inicio, cuentas con email, foto de perfil y banner desde la galería, negocios por dentro con empleados y clientes, bonos opcionales por anuncio (anuncios de prueba), configuración completa. |
+| 0.4.0 | Pixel art nuevo: los 12 negocios rediseñados con animación (toldos, luces, humo), personajes más grandes y detallados, íconos nuevos. |
 | 0.3.0 | Administrar ordenado en Negocio, Empleados, Mejoras y Datos; colores con sentido (verde gana, rojo gasta, amarillo avisa); los botones dicen cuánto falta; requisitos con barra de progreso. |
 | 0.2.0 | Letra más grande y clara, objetivo siempre visible, botón principal único, tutorial guiado paso a paso y logo nuevo. |
 | 0.1.0 | Primera versión jugable: 12 negocios, empleados, ingresos offline, mapa, rivales, misiones, logros y prestigio. |
